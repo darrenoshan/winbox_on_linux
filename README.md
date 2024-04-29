@@ -4,7 +4,8 @@ This is the simple script to install and have  Mikrotik Winbox in the Linux Desk
 
 
 ```
-git clone https://github.com/oshaghi1/winbox_on_linux.git
+git clone [https://github.com/darrenoshan/winbox_on_linux.git]
+
 cd winbox_on_linux
 chmod a+x install
 ./install
