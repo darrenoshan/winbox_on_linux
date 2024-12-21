@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=WinBox-Windows
+Type=Application
+Terminal=false
+Exec=wine64 /opt/winbox/win/winbox64.exe
+Icon=/opt/winbox/win/winbox-win.png
+Comment=WinBox to Manage Mikrotik Routers
+Encoding=UTF-8
+Categories=Network;RemoteAccess;
+X-Desktop-File-Install-Version=0.30
+Name[en_US]=WinBox-Windows
